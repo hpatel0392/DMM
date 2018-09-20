@@ -3,13 +3,7 @@
 This is a memory allocator which replaces all calls to C library 
 functions: malloc, calloc, realloc and free.
 
-KNOWN PROBLEMS:
-----------------
-
-None that I have found, all tests ran sucessfully. also checked with memset and it 
-works fine.
-
-DESIGN:
+Design:
 --------
 
 The allocator was designed using some code from a previous semester, such as the 
