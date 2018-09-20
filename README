@@ -1,4 +1,4 @@
-Harsh Patel
+# Dynamic Memory Manager
 
 This is a memory allocator which replaces all calls to C library 
 functions: malloc, calloc, realloc and free.
